@@ -1,0 +1,8 @@
+local config = { _version = "0.1.0" }
+
+config.API_URL = ''
+config.API_KEY = ''
+config.WIFI_SSID = ''
+config.WIFI_PWD = ''
+
+return config
